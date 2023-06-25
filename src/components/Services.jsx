@@ -52,7 +52,6 @@ const Services = () => {
             delay: 0.2,
           }}
         >
-          <AiFillAndroid />
           <span>Competitive Coding</span>
         </motion.div>
         <motion.div
@@ -60,7 +59,6 @@ const Services = () => {
           whileInView={animations.whileInView}
           initial={animations.four}
         >
-          <AiFillWindows />
           <span>Event Management</span>
         </motion.div>
       </section>
