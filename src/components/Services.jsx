@@ -57,15 +57,15 @@ const Services = () => {
           whileInView={animations.whileInView}
           initial={animations.four}
         >
-          <span>Event Management</span>
+          <span>Events Head (IEM Coding Club)</span>
         </motion.div>
-        <motion.div
+{/*         <motion.div
           className="serviceBox5"
           whileInView={animations.whileInView}
           initial={animations.twoAndThree}
         >
           <span>Software Developer</span>
-        </motion.div>
+        </motion.div> */}
       </section>
     </div>
   );
