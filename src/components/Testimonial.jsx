@@ -8,13 +8,19 @@ const Testimonial = () => {
       <section>
         <TestimonialCard
           name={"Ashfa"}
-          feedback={"Your teaching skills are so good."}
+          feedback={"You have excellent teaching abilities."}
         />
 
         <TestimonialCard
           name={"Anurag"}
           feedback={
-            "Wow, what a portfolio, doesn't expected this to be on youtube!"
+            "What an impressive portfolio, keep it up, bro!"
+          }
+        />
+        <TestimonialCard
+          name={"Anukriti"}
+          feedback={
+            "Your debugging abilities are excellent. Thanks!"
           }
         />
         {/* 
