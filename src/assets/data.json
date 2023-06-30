@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "title": "War-Challenge",
+      "title": "War Challenge",
       "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       "url": "https://github.com/anshu51379/WarChallengeApp",
       "imgSrc": "https://user-images.githubusercontent.com/80306592/150543483-c98257c0-c59c-4148-9289-b4c8823c1e57.png"
@@ -25,10 +25,10 @@
       "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
     },
     {
-      "title": "Portfolio",
+      "title": "Visual Portfolio Exhibit",
       "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
       "url": "https://portfolio-anshu51379.vercel.app",
-      "imgSrc": "https://pixabay.com/vectors/mobile-devices-laptop-website-2017980/"
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/01/29/13/21/mobile-devices-2017980_1280.png"
     }
   ]
 }
